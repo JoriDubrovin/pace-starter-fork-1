@@ -1,4 +1,4 @@
-*** Settings ***
+*** Settings *** 
 Documentation       Tests for Pace Starter.
 Resource            ../resources/keywords.robot
 Resource            ../resources/locators.robot
