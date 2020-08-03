@@ -40,3 +40,9 @@ Ihan Kuraa
     [Tags]              Contact
     Adppstate            contact
     VerifyText          We’re driven by quality
+
+Lisää Kuraa
+    [Documentation]     Locates 'We’re driven by quality' on the Lisää Kuraa.
+    [Tags]              Contact
+    Adppstate            contact
+    VerifyText          We’re driven by quality
