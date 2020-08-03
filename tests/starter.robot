@@ -34,3 +34,9 @@ Contact page
     [Tags]              Contact
     Appstate            contact
     VerifyText          We’re driven by quality
+
+Ihan Kuraa
+    [Documentation]     Locates 'We’re driven by quality' on the Ihan Kuraa.
+    [Tags]              Contact
+    Adppstate            contact
+    VerifyText          We’re driven by quality
